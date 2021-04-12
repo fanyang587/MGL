@@ -122,7 +122,6 @@ class CascadeGCNet(nn.Module):
         x = self.relu(x)
         return x
 
-#nips-18
 class GraphNet(nn.Module):
     def __init__(self, node_num, dim, normalize_input=False):
         super(GraphNet, self).__init__()
