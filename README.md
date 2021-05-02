@@ -39,6 +39,7 @@
     + Ensure consistency between 'stage' and 'model_path'. Setting 'stage: 1' and 'model_path: pre-trained/mgl_s.pth' to evaluate S-MGL model and setting 'stage: 2' and 'model_path: pre-trained/mgl_r.pth' to evaluate R-MGL model.
     + Playing 'test.py' to generate the final prediction map, the predicted camouflaged object region and cmouflaged object edge is saved into 'exp/result' as default.
     + You can also download the results [Google Drive link](https://drive.google.com/file/d/1Gi8JVgl3MFj3GCIW9FeE1gcmgCCzMI77/view?usp=sharing) or [Baidu Pan link](https://pan.baidu.com/s/1-0RV5ZORNznN_OVFTOoyNw) with the fetch code: b1gr.
+    + For NC4K dataset: You can find the results in [Google Drive link](https://drive.google.com/file/d/1EgfD_GtxTlP7CSJI9RRQuKhjhbsg2DZy/view?usp=sharing) or [Baidu Pan link](https://pan.baidu.com/s/1Czgs3RciBZQjw0CB9iPPWw) with the fetch code: 8ntb.
     
 4. Evaluation your trained model:
 
