@@ -48,7 +48,11 @@
     please follow this the instructions in `main.m` and just run it to generate the evaluation results in 
     `./EvaluationTool/EvaluationResults/Result-CamObjDet/`.
 
-6. If you think this work is helpful, please cite
+6. Training Configuration:
+   + After you download the initial model [Google Drive link](https://drive.google.com/file/d/17WYyKg40DkAgFWOusiAKgqZOlfUFzjn5/view?usp=sharing) or Baidu Pan link, move it to './pre_trained/'.
+   + Run train.py
+
+7. If you think this work is helpful, please cite
 
 ```
 @inproceedings{zhai2021Mutual,
