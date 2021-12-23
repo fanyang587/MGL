@@ -50,6 +50,7 @@
 
 6. Training Configuration:
    + After you download the initial model [Google Drive link](https://drive.google.com/file/d/17WYyKg40DkAgFWOusiAKgqZOlfUFzjn5/view?usp=sharing) or Baidu Pan link, move it to './pre_trained/'.
+   + Put the train.lst to the path which is included in cod_mgl50.yaml.
    + Run train.py
 
 7. If you think this work is helpful, please cite
