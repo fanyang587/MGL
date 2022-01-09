@@ -33,7 +33,7 @@ TRAIN:
   print_freq: 20
   save_freq: 5
   save_path: exp/model
-  weight:  
+  weight: ./pre_trained/resnet50_v1.pth
   resume: 
   evaluate:  True #False  # evaluate on validation set, extra gpu memory needed and small batch_size_val is recommend
 
